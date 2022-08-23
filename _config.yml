@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Michele Croci"
+title                    : "Giorgio Impollonia"
 title_separator          : "-"
-name                     : &name "Michele Croci"
+name                     : &name "Giorgio Impollonia"
 description              : &description "Agronomist | EO Data scientist 🌱🛰"
 url                      : https://MCroci.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
