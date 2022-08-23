@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "Croci93"
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Michele Croci"
+  name             : "Giorgio Impollonia"
   avatar           : "logoRemoteSensingTeam.png"
   bio              : "Agronomist | EO Data scientist 🌱🛰"
   location         : "Piacenza, Italy"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=FUxxRLYAAAAJ&hl=en"
-  email            : "michele.croci@unicatt.it"
-  researchgate     :  "https://www.researchgate.net/profile/Michele-Croci/"
+  googlescholar    : "https://scholar.google.com/citations?user=LgmJDQkAAAAJ&hl=en"
+  email            : "giorgio.impollonia@unicatt.it"
+  researchgate     :  "https://www.researchgate.net/profile/Giorgio-Impollonia/"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "MCroci"
+  github           : "GImpollonia"
   google_plus      :
   keybase          :
-  instagram        : "michele.croci"
+  instagram        : 
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-7356-2774"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-9878-6595"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "Croci93"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
