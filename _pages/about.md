@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<h6 align="center" > I'm a Postdoctoral Researcher in Remote Sensing and Precision Agriculture at Università Cattolica del Sacro Cuore.  </h6> 
+<h5 align="center" > I'm a Postdoctoral Researcher in Remote Sensing and Precision Agriculture at Università Cattolica del Sacro Cuore.  </h5> 
 
 
 I am a member of the UCSC Fields Crop group, advised by Prof. Stefano Amaducci.
