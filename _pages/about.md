@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> Hi there! I'm Michele Croci</h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> Hi there! I'm Giorgio Impollonia</h1>
 
 <h6 align="center" > I'm a Postdoctoral researcher in Remote sensing for the Agri-Food Sector at Università Cattolica del Sacro Cuore.  </h6> 
 
