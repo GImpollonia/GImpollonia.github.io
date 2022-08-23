@@ -17,10 +17,10 @@ The *[agro.big.data.science](http://agrobigdatascience.it/)* project intends to 
 ### FarmCO2Sink
 The EU-funded *[FarmCO2Sink](https://farmco2sink.crpa.it/nqcontent.cfm?a_id=19589)* project aims to identify, in agroforestry production systems of the Province of Piacenza, the most efficient conservation systems in terms of biological sequestration of C at farm level and the reduction of climate-altering greenhouse gas emissions (GHG).
 
-### GRACE BBI
+### GRACE
 The EU-funded *[GRACE](https://www.grace-bbi.eu/)* project demonstrates large-scale miscanthus and hemp production on land with low productivity, contaminated soil or which has been abandoned.
 
-### Positive - Scalable Operational Protocols for precision agriculture
+### Positive
 The *[Positive](http://www.progettopositive.it)* project aims to make agronomic interest indices available on a regional scale from satellite images of the Copernicus project and to prepare an IT infrastructure that makes precision irrigation and fertigation usable throughout the region.
 
 ### Soipomi
