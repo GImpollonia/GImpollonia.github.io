@@ -1,7 +1,7 @@
 ---
 title: "Evaluating Biostimulants Via High-Throughput Field Phenotyping: Biophysical Traits Retrieval Through PROSAIL Inversion"
 collection: publications
-permalink: /publication/2022-06-Biostimulants
+permalink: /publication/2022-06-UAV Biostimulants
 excerpt: ''
 date: 2022-06-01
 venue: 'Smart Agricultural Technology'
